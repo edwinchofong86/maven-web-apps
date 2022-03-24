@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.152.174.183:8081/repository/mankong_bank-app-release/</url>
+	      <url>http://54.152.174.183:8081/repository/mk-bank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.152.174.183:8081/repository/mankong_bank-app-SNAPSHOT/</url>
+	      <url>http://54.152.174.183:8081/repository/mk-bank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
