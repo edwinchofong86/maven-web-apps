@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.152.174.183:8081/repository/mk-bank-release/</url>
+	      <url>http://54.234.8.83:8081/repository/td-app-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.152.174.183:8081/repository/mk-bank-snapshot/</url>
+	      <url>http://54.234.8.83:8081/repository/td-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
